@@ -13,7 +13,7 @@ To plan the user experience and organize the interface before creating the high-
 - Figma
 
 ## Deliverables
-- CodeAlpha_UIUX_Internship_Tasks-1
+UIUX_Internship_1
 
 ## Total Screens
 12
