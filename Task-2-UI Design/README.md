@@ -13,7 +13,7 @@ To transform the wireframes into an attractive and functional user interface whi
 - Figma
 
 ## Deliverables
-- CodeAlpha_UIUX_Internship_Tasks-2
+UIUX_Internship_2
 
 ## Total Screens
 12
