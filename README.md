@@ -1,4 +1,4 @@
-# CodeAlpha UI/UX Internship Tasks
+#  UI/UX Internship Tasks
 
 ## Project Title
 Learning App
@@ -9,13 +9,13 @@ The project is a **Learning App** designed in Figma with a focus on creating a c
 
 ## Repository Structure
 
-### 📁 Task-1-Wireframes
+### 📁 Wireframes
 Low-fidelity wireframes created to define the layout, navigation, and user flow.
 
-### 📁 Task-2-UI-Design
+### 📁 UI-Design
 High-fidelity UI screens designed using Figma with a modern and consistent visual style.
 
-### 📁 Task-3-Prototype
+### 📁 Prototype
 Interactive prototype demonstrating the complete user flow and screen transitions.
 
 ## Tool Used
@@ -25,4 +25,4 @@ Interactive prototype demonstrating the complete user flow and screen transition
 12
 
 ## Internship
-CodeAlpha UI/UX Design Internship
+ UI/UX Design Internship
